@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PolSances13
 - 👀 I’m interested in Speedcubing and Coding.
-- 🌱 I’m currently trying to learn python.
+- 🌱 I’m currently trying to fully learn python.
 
 <!---
 PolSances13/PolSances13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
